@@ -1,0 +1,1 @@
+&{template:atkdmg} {{attack=1}} {{rname=Initiative}} {{r1=[[D20+@{Initiative}[Initiative] &{tracker}]]}} {{mod=Normal}} {{normal=1}}
