@@ -1,0 +1,10 @@
+&{template:atkdmg} {{rname=Saving Throw}} {{attack=1}} ?{Skill|
+    Strength,{{r1=[[D20+@{StrengthSave}[Strength]]]&#125;&#125; {{r2=[[D20+@{StrengthSave}[Strength]]]&#125;&#125; {{mod=Strength&#125;&#125;|
+    Dexterity,{{r1=[[D20+@{DexteritySave}[Dexterity]]]&#125;&#125; {{r2=[[D20+@{DexteritySave}[Dexterity]]]&#125;&#125; {{mod=Dexterity&#125;&#125;|
+    Constitution,{{r1=[[D20+@{ConstitutionSave}[Constitution]]]&#125;&#125; {{r2=[[D20+@{ConstitutionSave}[Constitution]]]&#125;&#125; {{mod=Constitution&#125;&#125;|
+    Intelligence,{{r1=[[D20+@{IntelligenceSave}[Intelligence]]]&#125;&#125; {{r2=[[D20+@{IntelligenceSave}[Intelligence]]]&#125;&#125; {{mod=Intelligence&#125;&#125;|
+    Wisdom,{{r1=[[D20+@{WisdomSave}[Wisdom]]]&#125;&#125; {{r2=[[D20+@{WisdomSave}[Wisdom]]]&#125;&#125; {{mod=Wisdom&#125;&#125;|
+    Charisma,{{r1=[[D20+@{CharismaSave}[Charisma]]]&#125;&#125; {{r2=[[D20+@{CharismaSave}[Charisma]]]&#125;&#125; {{mod=Charisma&#125;&#125;} ?{Type|
+    Normal,{{normal=1&#125;&#125;|
+    Advantage,{{advantage=1&#125;&#125;|
+    Disadvantage,{{disadvantage=1&#125;&#125;}

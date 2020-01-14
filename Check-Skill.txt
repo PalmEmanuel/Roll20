@@ -1,0 +1,22 @@
+&{template:atkdmg} {{rname=Skill Check}} {{attack=1}} ?{Skill|
+    Acrobatics,{{r1=[[D20+@{Acrobatics}[Acrobatics]]]&#125;&#125; {{r2=[[D20+@{Acrobatics}[Acrobatics]]]&#125;&#125; {{mod=Acrobatics&#125;&#125;|
+    Animal Handling,{{r1=[[D20+@{AnimalHandling}[AnimalHandling]]]&#125;&#125; {{r2=[[D20+@{AnimalHandling}[AnimalHandling]]]&#125;&#125; {{mod=Animal Handling&#125;&#125;|
+    Arcana,{{r1=[[D20+@{Arcana}[Arcana]]]&#125;&#125; {{r2=[[D20+@{Arcana}[Arcana]]]&#125;&#125; {{mod=Arcana&#125;&#125;|
+    Athletics,{{r1=[[D20+@{Athletics}[Athletics]]]&#125;&#125; {{r2=[[D20+@{Athletics}[Athletics]]]&#125;&#125; {{mod=Athletics&#125;&#125;|
+    Deception,{{r1=[[D20+@{Deception}[Deception]]]&#125;&#125; {{r2=[[D20+@{Deception}[Deception]]]&#125;&#125; {{mod=Deception&#125;&#125;|
+    History,{{r1=[[D20+@{History}[History]]]&#125;&#125; {{r2=[[D20+@{History}[History]]]&#125;&#125; {{mod=History&#125;&#125;|
+    Insight,{{r1=[[D20+@{Insight}[Insight]]]&#125;&#125; {{r2=[[D20+@{Insight}[Insight]]]&#125;&#125; {{mod=Insight&#125;&#125;|
+    Intimidation,{{r1=[[D20+@{Intimidation}[Intimidation]]]&#125;&#125; {{r2=[[D20+@{Intimidation}[Intimidation]]]&#125;&#125; {{mod=Intimidation&#125;&#125;|
+    Investigation,{{r1=[[D20+@{Investigation}[Investigation]]]&#125;&#125; {{r2=[[D20+@{Investigation}[Investigation]]]&#125;&#125; {{mod=Investigation&#125;&#125;|
+    Medicine,{{r1=[[D20+@{Medicine}[Medicine]]]&#125;&#125; {{r2=[[D20+@{Medicine}[Medicine]]]&#125;&#125; {{mod=Medicine&#125;&#125;|
+    Nature,{{r1=[[D20+@{Nature}[Nature]]]&#125;&#125; {{r2=[[D20+@{Nature}[Nature]]]&#125;&#125; {{mod=Nature&#125;&#125;|
+    Perception,{{r1=[[D20+@{Perception}[Perception]]]&#125;&#125; {{r2=[[D20+@{Perception}[Perception]]]&#125;&#125; {{mod=Perception&#125;&#125;|
+    Performance,{{r1=[[D20+@{Performance}[Performance]]]&#125;&#125; {{r2=[[D20+@{Performance}[Performance]]]&#125;&#125; {{mod=Performance&#125;&#125;|
+    Persuasion,{{r1=[[D20+@{Persuasion}[Persuasion]]]&#125;&#125; {{r2=[[D20+@{Persuasion}[Persuasion]]]&#125;&#125; {{mod=Persuasion&#125;&#125;|
+    Religion,{{r1=[[D20+@{Religion}[Religion]]]&#125;&#125; {{r2=[[D20+@{Religion}[Religion]]]&#125;&#125; {{mod=Religion&#125;&#125;|
+    Sleight of Hand,{{r1=[[D20+@{SleightOfHand}[SleightOfHand]]]&#125;&#125; {{r2=[[D20+@{SleightOfHand}[SleightOfHand]]]&#125;&#125; {{mod=Sleight of Hand&#125;&#125;|
+    Stealth,{{r1=[[D20+@{Stealth}[Stealth]]]&#125;&#125; {{r2=[[D20+@{Stealth}[Stealth]]]&#125;&#125; {{mod=Stealth&#125;&#125;|
+    Survival,{{r1=[[D20+@{Survival}[Survival]]]&#125;&#125; {{r2=[[D20+@{Survival}[Survival]]]&#125;&#125; {{mod=Survival&#125;&#125;} ?{Type|
+    Normal,{{normal=1&#125;&#125;|
+    Advantage,{{advantage=1&#125;&#125;|
+    Disadvantage,{{disadvantage=1&#125;&#125;}

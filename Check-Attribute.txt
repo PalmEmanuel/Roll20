@@ -1,0 +1,10 @@
+&{template:atkdmg} {{rname=Skill Check}} {{attack=1}} ?{Skill|
+    Strength,{{r1=[[D20+@{StrengthMod}[Strength]]]&#125;&#125; {{r2=[[D20+@{StrengthMod}[Strength]]]&#125;&#125; {{mod=Strength&#125;&#125;|
+    Dexterity,{{r1=[[D20+@{DexterityMod}[Dexterity]]]&#125;&#125; {{r2=[[D20+@{DexterityMod}[Dexterity]]]&#125;&#125; {{mod=Dexterity&#125;&#125;|
+    Constitution,{{r1=[[D20+@{ConstitutionMod}[Constitution]]]&#125;&#125; {{r2=[[D20+@{ConstitutionMod}[Constitution]]]&#125;&#125; {{mod=Constitution&#125;&#125;|
+    Intelligence,{{r1=[[D20+@{IntelligenceMod}[Intelligence]]]&#125;&#125; {{r2=[[D20+@{IntelligenceMod}[Intelligence]]]&#125;&#125; {{mod=Intelligence&#125;&#125;|
+    Wisdom,{{r1=[[D20+@{WisdomMod}[Wisdom]]]&#125;&#125; {{r2=[[D20+@{WisdomMod}[Wisdom]]]&#125;&#125; {{mod=Wisdom&#125;&#125;|
+    Charisma,{{r1=[[D20+@{CharismaMod}[Charisma]]]&#125;&#125; {{r2=[[D20+@{CharismaMod}[Charisma]]]&#125;&#125; {{mod=Charisma&#125;&#125;} ?{Type|
+    Normal,{{normal=1&#125;&#125;|
+    Advantage,{{advantage=1&#125;&#125;|
+    Disadvantage,{{disadvantage=1&#125;&#125;}

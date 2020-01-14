@@ -1,0 +1,1 @@
+&{template:atkdmg} {{attack=0}} {{damage=1}} {{dmg1flag=1} {{dmg1type=}} ?{Attack Type|Normal,{{rname=Sneak Attack&#125;&#125; {{dmg1=[[2D6]]&#125;&#125; {{mod=Normal&#125;&#125;|Critical,{{rname=Sneak Attack&#125;&#125; {{dmg1=[[2D6+12]]&#125;&#125; {{mod=Critical&#125;&#125; }
